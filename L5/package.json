@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "jest": "^29.0.2",
+    "minimist": "^1.2.7",
+    "pg": "^8.8.0",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.25.3"
+  },
+  "scripts": {
+    "test": "jest --detectOpenHandles"
+  }
+}
